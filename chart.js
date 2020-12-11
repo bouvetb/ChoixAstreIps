@@ -55,7 +55,7 @@ function updateChart(){
             data: scoreIPS
         },
         {
-            name: ' % ASTREd ',
+            name: ' % ASTRE ',
             data: scoreAstre
         }]
     });
