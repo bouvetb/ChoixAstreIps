@@ -1,0 +1,49 @@
+
+.Soushypo
+{
+	margin-left : 50px;
+	margin-right : 50px;
+	color: gray;
+	margin-top : 5px;
+	margin-bottom : 10px;
+	background-color :#e7e7e7 ;
+	border: solid;
+	border-width: 1px;
+	border-radius : 20px 20px;
+}
+
+
+.Soushypo:focus-within
+{
+	background : silver;
+	color : black;
+	border-color : lightblue;
+	border-width: 4px;
+}
+
+label
+{
+    width: auto;
+    text-align: center;
+	align : center;
+	padding-left : 50px;
+}
+
+input[type=number] 
+{
+	margin-bottom :5px;
+	margin-left : 10px;
+	width: 50px;
+
+}
+
+input[type=number]:focus 
+{
+	background-color: lightblue;
+}
+
+div
+{
+	background-color : #CBD8FF ;
+	border-radius : 20px 20px;
+}
